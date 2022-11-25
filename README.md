@@ -2,6 +2,7 @@
 A CRUD Application for managing anime series
 
 
-install pymysql for mysql connection command:
+install pymysql for mysql connection 
 
+command:
 pip install PyMySQL
